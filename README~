@@ -1,0 +1,29 @@
+
+  AUTHOR: Himanshu Jariyal,
+  B.TECH, CSE 2ND YEAR
+  IIT ROORKEE
+
+
+#----C++ Implementation for Two pass Assembler----#
+
+
+Run pass2.cpp ONLY. It automatically invokes functions for pass 1 of assembler.
+
+By default, input file is "input_fibonacci.txt". Can be changed in pass1.cpp
+
+Intermediate file and a modification file is maintained, which is used during the run of the program. Need not be viewed by user.
+
+Object file is saved in "object.txt"
+
+Listing file is saved in "list.txt"
+
+Errors, if any, are saved in "error.txt"
+
+
+#-------FEATURES IMPLEMENTED----------#
+
+-> Different addressing modes for SIC/XE
+-> Program Blocks
+-> Modification Records
+//-> Literals and expressions
+
